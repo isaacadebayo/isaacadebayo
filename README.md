@@ -1,7 +1,7 @@
+## Hi there 👋, Nice to meet you. I am Isaac Adebayo
+
 ![Profile Views](https://komarev.com/ghvc/?username=isaacadebayo)
 
-
-## Hi there 👋
 
 <!--
 **isaacadebayo/isaacadebayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
