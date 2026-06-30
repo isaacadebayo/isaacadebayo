@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*I am a recent data scientist masters graduate student currently working towards my PhD.
+    *I am a recent data scientist masters graduate student currently working towards my PhD.
 
-*My expertise involve building insightful model to solve world issue. Works displayed on my repository are work from public database
+    *My expertise involve building insightful model to solve world issue. Works displayed on my repository are work from public database
 
-*Looking to collaborate and to share knowledge with like minded individuals in various fields and discipline with the goal of building and optimizing better models
+ *Looking to collaborate and to share knowledge with like minded individuals in various fields and discipline with the goal of building and optimizing better models
 
 *My interest revolves around machine unlearning, memory agent in agentic workflows, deep learning from scratch and much more.
 
