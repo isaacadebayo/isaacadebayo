@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-    *I am a recent data scientist masters graduate student currently working towards my PhD.
+   * I am a recent data scientist masters graduate student currently working towards my PhD.
 
     *My expertise involve building insightful model to solve world issue. Works displayed on my repository are work from public database
 
