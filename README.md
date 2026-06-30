@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Views](https://komarev.com/ghpvc/?username=isaacadebayo&color=blue&style=flat-square)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ISAACADEBAYO&color=green&style=flat-square&label=PROFILE+VISITS)
