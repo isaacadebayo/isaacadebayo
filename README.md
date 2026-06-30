@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=isaacadebayo&color=purple&style=flat-square)
 
 
-![Profile Views](https://komarev.com/ghvc/?username=YOUR-GITHUB-ISAACADEBAYO&color=purple&style=flat-square&label=PROFILE+VISITS)
+![Profile Views](https://komarev.com/ghvc/?username=YOUR-GITHUB-ISAACADEBAYO&color=green&style=flat-square&label=PROFILE+VISITS)
 
