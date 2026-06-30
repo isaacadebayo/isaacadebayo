@@ -1,6 +1,5 @@
-## Hi there 👋, Nice to meet you. I am Isaac Adebayo
+## Hi there 👋, Nice to meet you. 
 
-![Profile Views](https://komarev.com/ghvc/?username=isaacadebayo)
 
 
 <!--
@@ -17,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Profile Views](https://komarev.com/ghvc/?username=isaacadebayo)
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=isaacadebayo.isaacadebayo)
