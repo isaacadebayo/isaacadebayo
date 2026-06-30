@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghvc/?username=isaacadebayo)
+
+
 ## Hi there 👋
 
 <!--
